@@ -1,0 +1,159 @@
+*{
+  font-family: sans-serif;
+}
+body{
+   background-color: #cce9f7 !important;
+  }
+.box11{
+  background-color: #cce9f7 !important;
+  padding: 0px;
+  margin-top: -18px;
+  height: 103px;
+
+}
+.box1{
+   display: inline-block;
+   margin: 29px;
+}
+
+.navbar{
+  display: block;
+  text-align: right;
+  background-color: rgb(45, 77, 137);
+  height: 59px;
+  width: 912px;
+  border-radius: 7px;
+  padding: 5px;
+  margin-left: 470px;
+  margin-top: -113px;
+}
+
+.navbar ul{
+    overflow: auto;
+}
+.navbar li{
+    float: left;
+    list-style: none;
+}
+.navbar li a{
+    padding: 25px 25px;
+    text-decoration: none;
+   color: bisque;
+  }
+.content{
+    text-align: center;
+    margin-top: 90px;
+}
+.main{
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 38px;
+}
+.main2{
+    font-size: 18px;
+  font-weight: inherit;
+  margin-top: 11px;
+}
+.main3{
+    font-size: 18px;
+  font-weight: inherit;
+  margin-top: -28px;
+}
+.main4{
+    font-size: 18px;
+  font-weight: inherit;
+  margin-top: -29px;
+}
+img{
+  margin-left: 138px;
+  margin-top: 50px;
+}
+.main-form div{
+  width: 300px;
+  margin-top: 21px;
+}
+.main-form div input{
+    display: inline-block;
+    width: 450px;
+  height: 34px;
+  border-bottom: 1px solid wheat;
+}
+.form{
+    margin: -648px 762px;
+}
+.registration{
+  line-height: 37px;
+  font-size: 18px;
+  font-style: italic;
+  letter-spacing: 1px;
+  word-spacing: 1px;
+}
+
+
+button{
+    color: #000;
+    background-color: rgb(45, 77, 137);
+    margin-left: 205px;
+  margin-top: 32px;
+  width: 151px;
+  height: 51px;
+  font-style: oblique;
+  font-size: 16px;
+  font-weight: bold;
+  background: transparent;
+  color:  rgb(45, 77, 137);
+  cursor: pointer;
+  overflow: hidden;
+}
+button:hover{
+  background-color: rgb(45, 77, 137);
+  color: bisque;
+}
+.mohit{
+  width: 430px;
+  height: 37px;
+  background-color: azure;
+  margin-top: 1px;
+}
+input{
+  background-color: azure;
+}
+.spa{
+  margin-left: 69px;
+}
+.start{
+  text-align: bottom;
+}
+.main-form{
+  display: flex;
+  margin-left: 756px;
+  margin-top: -665px;
+}
+
+.frequentlyaskedquestion{
+  text-align: center;
+}
+#whichtretmentisbestorfme{
+  width: 998px;
+  height: 48px;
+  background-color: bisque;
+  font-size: 22px;
+  font-style: oblique;
+}
+#DoYouHaveaCellPhonePolicy{
+  width: 998px;
+  height: 48px;
+  background-color: bisque;
+  font-size: 22px;
+  font-style: oblique;
+  margin-top: 31px;
+}
+#CanIsafelystoremypersonalbelongingssomewhereduringmyservice{
+  width: 998px;
+  height: 48px;
+  background-color: bisque;
+  font-size: 22px;
+  font-style: oblique;
+  margin-top: 31px;
+}
+

@@ -1,0 +1,43 @@
+body{
+    background-color: #cce9f7 ;
+}
+.navbar{
+    display: block;
+    text-align: right;
+    background-color: rgb(45, 77, 137);
+    height: 59px;
+    width: 912px;
+    border-radius: 7px
+}
+.navbar li a{
+    padding: 25px 25px;
+    text-decoration: none;
+   color: bisque;
+}
+.navbar ul{
+    overflow: auto;
+}
+.navbar li{
+    float: left;
+    list-style: none;
+}
+.RestoreYourHarmony{
+    font-size: 48px;
+    font-weight: initial;
+}   
+.detail{
+    margin-left: 250px;
+   margin-right: 282px;
+   font-size: 22px;
+}
+footer{
+    background-color: #012d40 ;
+}
+.linkofsocial{
+    margin-left: 427px;
+   font-size: 21px;
+   color: rgb(42, 93, 137);
+}
+a:hover{
+    color: rgb(8, 56, 40);
+}
